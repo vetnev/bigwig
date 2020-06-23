@@ -1,0 +1,33 @@
+report at end of internship:
+
+	- understanding the code (how to use the code)
+	- assumptions - limitations
+	- future improvements
+
+Essence of task: right now Equinor pays a lot for expensice software so
+		 try to make it cheaper to easily see and analysed the data equinor has
+
+biggest risk: data security
+(very few human rights risk)
+
+For final deivery:
+
+	- live demonstration is best
+
+	- Talk about teamwork and how we worked together
+		- what tools
+		- what did we find to work and not work
+		- did we use any design thinking elements
+
+
+other key words/ info:
+
+- .PRK file type (smaller size than .las)
+
+- use numpy and scipy for statistical comparisons
+
+- between data set 1 and data set 2 look also to what is matching not just differences
+
+- how do we properly store and process huge amounts of data??????????????? the real mision
+
+- follow pep8 standards

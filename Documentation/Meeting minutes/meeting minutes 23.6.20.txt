@@ -30,4 +30,8 @@ other key words/ info:
 
 - how do we properly store and process huge amounts of data??????????????? the real mision
 
-- follow pep8 standards 
+- follow pep8 standards
+
+- find an efficient package for storing tabular data
+
+- goal: make it easy for geoscientist to quickly look up and compare data from wells

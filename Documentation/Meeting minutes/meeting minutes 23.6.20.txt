@@ -30,4 +30,4 @@ other key words/ info:
 
 - how do we properly store and process huge amounts of data??????????????? the real mision
 
-- follow pep8 standards
+- follow pep8 standards 

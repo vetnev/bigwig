@@ -5,7 +5,7 @@ report at end of internship:
 	- future improvements
 
 Essence of task: right now Equinor pays a lot for expensice software so
-		 try to make it cheaper to easily see and analysed the data equinor has
+		 try to make it cheaper to easily see and analyse the data equinor has
 
 biggest risk: data security
 (very few human rights risk)

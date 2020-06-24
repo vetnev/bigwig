@@ -10,3 +10,11 @@ Team members:
 - Sebastian Ægidius
 - Tobias Hermansen
 - Vetle Nevland
+
+
+Current Tasks:
+  - Find out how to store/create data base for large amounts of data files
+  - Create fake data las files
+  - Manage what we want to visualise from a las file and compare
+  - Is it possible to down size files? (.prk files)
+  
